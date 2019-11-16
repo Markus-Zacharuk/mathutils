@@ -13,7 +13,7 @@ __email__ = "markus.zacharuk@stud.uni-frankfurt.de"
 def create_string(table, space_between_columns=2):
     """ This creates a formatted string with variable column widths.
 
-    Printing with "\t" didn't format well when big numbers were given, so this is a workaround
+    Printing with "\t" didn't format well when big numbers were given, so this is a workaround.
     """
     result = ""
     column_widths = [0, 0, 0, 0, 0]
