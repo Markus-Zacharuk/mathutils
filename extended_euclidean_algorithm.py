@@ -3,7 +3,7 @@
 https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm:
 'In arithmetic and computer programming, the extended Euclidean algorithm is an extension to the Euclidean
 algorithm, and computes, in addition to the greatest common divisor of integers a and b, also the coefficients
-of Bézout's identity, which are integers x and y such that [a*s+b*t=gcd(a,b)].'
+of Bézout's identity, which are integers [s] and [t] such that [a*s+b*t=gcd(a,b)].'
 """
 
 __author__ = "Zacharuk, Markus"
