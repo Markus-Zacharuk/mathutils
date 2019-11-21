@@ -37,7 +37,7 @@ def create_string(table, space_between_columns=2):
 
 
 def extended_euclidean_algorithm(a, b):
-    """ Clculates the biggest common divisor with bézout-coefficients.
+    """ Calculates the biggest common divisor with bézout-coefficients.
 
     Prints out a matrix that shows each step of the algorithm.
     a and b can be any integers.
